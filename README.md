@@ -61,9 +61,11 @@ Customers using electronic check method  of payment shows a higher churn rate.
 
 ## Business Recommendation
 
-1. Encourage customers to move to long-term contracts by introducing various incentives.
-2. Improving of customers onboarding experience in the first 6months .
-3. Offer loyality discount for customers who pays high monthly charge .
+1. Encourage customers to switch to long-term contracts by introducing incentives such as discounted rates or bonus services. This can reduce churn associated with month-to-month contracts.
+
+2. Improve the onboarding experience during the first 6 months, as customers in the early stage of their subscription are more likely to churn. Providing proactive customer support and engagement during this period can improve retention.
+
+3. Offer loyalty discounts or special packages to customers with high monthly charges, as they may be more price-sensitive and at higher risk of leaving
 
 ## Author
 Samuel Shobowale  
