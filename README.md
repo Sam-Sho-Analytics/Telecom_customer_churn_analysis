@@ -1,4 +1,4 @@
-# Telecom_customer_churn-_analysis
+# Telecom_customer_churn_analysis
 End-to-end telecom churn analysis using Power BI to identify drivers of customer churn and provide business insights and  recommendation.
 
 # Telecom Customer Churn Analysis
