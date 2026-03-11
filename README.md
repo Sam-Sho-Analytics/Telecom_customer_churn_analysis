@@ -51,7 +51,7 @@ Higher monthly charges are correlated with increased churn.
 Customers using electronic check method  of payment shows a higher churn rate.
 
 ## Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ## Key Metrics
 - Total Customers
